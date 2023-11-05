@@ -2,14 +2,14 @@
     "items": [
         {
             "fanart": "", 
-            "link": "https://github.com/MetalDudesMusic/Metal/blob/main/Metal-Vids.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Metal-Vids.json", 
             "thumbnail": "", 
             "title": "Metal Vids", 
-            "type": "item"
+            "type": "dir"
         },
         {
             "fanart": "", 
-            "link": "https://github.com/MetalDudesMusic/Metal/blob/main/Music-Choice.json", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Choice.json", 
             "thumbnail": "", 
             "title": "Music Choice", 
             "type": "dir"
