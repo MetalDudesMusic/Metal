@@ -2,9 +2,23 @@
     "items": [
         {
             "fanart": "", 
-            "link": "http://racingondemand.xyz/noneofyourebusiness/json/roadrace/aussie/v8supercars.json", 
+            "link": "https://github.com/MetalDudesMusic/Metal/blob/main/Metal-Vids.json", 
             "thumbnail": "", 
-            "title": "", 
+            "title": "Metal Vids", 
+            "type": "dir"
+        },
+        {
+            "fanart": "", 
+            "link": "https://github.com/MetalDudesMusic/Metal/blob/main/Music-Choice.json", 
+            "thumbnail": "", 
+            "title": "Music Choice", 
+            "type": "dir"
+        },
+        {
+            "fanart": "", 
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/Metal/main/Music-Vids-Dance.json", 
+            "thumbnail": "", 
+            "title": "Musics Vids Dance", 
             "type": "dir"
         }
     ]
